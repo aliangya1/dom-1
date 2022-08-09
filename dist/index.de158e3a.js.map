@@ -1,0 +1,1 @@
+{"mappings":"AAAA,+BAA+B;AAC/B,MAAM,GAAG,GAAG,GAAG,CAAC,MAAM,CAAC,2BAA2B,CAAC,AAAC;AACpD,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC","sources":["src/main.js"],"sourcesContent":["//document.createElement('div')\r\nconst div = dom.create(\"<div><span>1</span></div>\");\r\nconsole.log(div);"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
